@@ -1,0 +1,26 @@
+{
+	"demoId":"1",
+	"accepted":"",
+	
+    "tutor":{
+   "id": "1",
+	"firstName": "Raj",
+	"lastName":"Verma",
+	"email":"raj@123",
+	"password":"321",
+	"subject":"Maths",
+     "rating":"7",
+	"isAvailable":"yes",
+	
+	"parent":{
+    "id": "1",
+	"firstName": "Rajesh",
+	"lastName":"Singh",
+	"email":"rajesh@123",
+	"password":"3211"
+		
+	}
+	
+	
+}
+}
